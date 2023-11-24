@@ -1,7 +1,9 @@
 # SistemaBancario
 Repositório para a aplicação Banco SPI, que é um sistema bancários simples. Nele é possível selecionar a conta e fazer operações como sacar e depositar.
 
-Curso de Sistemas Para Internet, Cadeira: Programação Orientada a Objetos, Professor: Jeofton Costa Melo.
+Curso de Sistemas Para Internet
+Cadeira: Programação Orientada a Objetos
+Professor: Jeofton Costa Melo.
 
 Projeto Prático: BANCO SPI
 
